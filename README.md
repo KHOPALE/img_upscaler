@@ -46,14 +46,16 @@ Use pre-trained ESRGAN models to perform super-resolution on images
 Replace input.jpg with your input image file and output.jpg with the desired output file name. Adjust the model_path according to the pre-trained model you want to use.
 
 2) Train ESRGAN Model (Optional)
-3) 
+ 
 python code.py
 
 
 Results
+
 Include sample images showing the results of super-resolution using ESRGAN. Provide visual comparisons with the original images to showcase the improvement in resolution and quality.
 
 
 Acknowledgments
+
 Install pretrain model like ESRGAN ect
 
